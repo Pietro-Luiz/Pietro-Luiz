@@ -27,16 +27,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
----
-
-## 📊 Stats
-
-<div align="center">
-
-![Pietro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pietro-Luiz&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro-Luiz&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
