@@ -1,13 +1,13 @@
-# Hi there 👋
+# Hi there 
 
-- 🎓 **Computer Science** student at Mauá Institute of Technology (IMT)
-- 💻 Passionate about software development and low-level programming
-- 🚀 Currently working on a sports nutrition system for athletes — **São Camilo Nutri-Esportiva**
-- 🌱 Always learning and building new things
+-  **Computer Science** student at Mauá Institute of Technology (IMT)
+-  Passionate about software development and low-level programming
+-  Currently working on a sports nutrition system for athletes — **São Camilo Nutri-Esportiva**
+-  Always learning and building new things
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -20,7 +20,7 @@
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🔧 Tools
+##  Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -30,6 +30,6 @@
 
 ---
 
-## 📬 Contact
+##  Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:plarrelaro@gmail.com)
